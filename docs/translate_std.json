@@ -1,0 +1,9 @@
+{
+    "print亮红": "printBrightRed",
+    "print亮绿": "printBrightGreen",
+    "print亮蓝": "printBrightBlue",
+    "print亮黄": "printBrightYellow",
+    "把字符太少的块清除为回车": "clearBlocksWithTooFewCharactersToNewLine",
+    "清理多余的空行": "cleanUpExcessEmptyLines",
+    "合并小写开头的段落块": "mergeParagraphBlocksStartingWithLowerCase"
+}

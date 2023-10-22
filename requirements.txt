@@ -1,3 +1,4 @@
+./docs/gradio-3.32.6-py3-none-any.whl
 langchain>=0.0.306
 openai>=0.27.8 
 chromadb>=0.3.29
@@ -5,3 +6,7 @@ tiktoken>=0.4.0
 pydantic>=1.10.7
 litellm>=0.1.819
 ipykernel>=6.25.2
+Markdown
+latex2mathml
+transformers>=4.27.1
+rich
